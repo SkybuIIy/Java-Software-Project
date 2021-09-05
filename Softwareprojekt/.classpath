@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Uni/5. Semester/Softwareprojekt/eclipse/CloudmeAPI/cloudmejavaapi111.jar"/>
+	<classpathentry kind="lib" path="E:/Uni/5. Semester/Softwareprojekt/eclipse/CloudmeAPI/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/Uni/5. Semester/Softwareprojekt/eclipse/CloudmeAPI/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Uni/5. Semester/Softwareprojekt/eclipse/CloudmeAPI/fluent-hc-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Uni/5. Semester/Softwareprojekt/eclipse/CloudmeAPI/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Uni/5. Semester/Softwareprojekt/eclipse/CloudmeAPI/httpclient-cache-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Uni/5. Semester/Softwareprojekt/eclipse/CloudmeAPI/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Uni/5. Semester/Softwareprojekt/eclipse/CloudmeAPI/httpmime-4.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
